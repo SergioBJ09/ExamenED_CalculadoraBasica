@@ -1,7 +1,7 @@
 package calculadora;
-
+// Importacion de Java Utils
 import java.util.Scanner;
-
+// Declaracion de la Clase SumaNumeros
 public class SumaNumeros {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in); // Declaracion de la Clase Scanner
